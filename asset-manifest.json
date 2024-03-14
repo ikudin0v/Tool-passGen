@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tool-passGen/static/css/main.9a6d1f18.css",
+    "main.js": "/Tool-passGen/static/js/main.6b4a4b26.js",
+    "index.html": "/Tool-passGen/index.html",
+    "main.9a6d1f18.css.map": "/Tool-passGen/static/css/main.9a6d1f18.css.map",
+    "main.6b4a4b26.js.map": "/Tool-passGen/static/js/main.6b4a4b26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a6d1f18.css",
+    "static/js/main.6b4a4b26.js"
+  ]
+}
